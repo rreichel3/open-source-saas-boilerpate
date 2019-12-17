@@ -77,7 +77,7 @@ It has just 4 functions:
 - logout(unset cookies from the response on user's logout)
 - token_refresh(updates the access' token on demand).
 
-##### Frond-end functions
+##### Front-end functions
 This file is referred in the Auth jsx component and it's only purpose is to add the interceptor in all the following requests done by axios. You don't need to call it directly.
 
 #### ComponentsDemo
